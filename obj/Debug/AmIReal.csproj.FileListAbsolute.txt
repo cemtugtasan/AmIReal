@@ -1,0 +1,8 @@
+D:\yazılım çalışmaları\visual çalışamaları\karışık random çalışmalar\AmIReal\AmIReal\bin\Debug\AmIReal.exe.config
+D:\yazılım çalışmaları\visual çalışamaları\karışık random çalışmalar\AmIReal\AmIReal\bin\Debug\AmIReal.exe
+D:\yazılım çalışmaları\visual çalışamaları\karışık random çalışmalar\AmIReal\AmIReal\bin\Debug\AmIReal.pdb
+D:\yazılım çalışmaları\visual çalışamaları\karışık random çalışmalar\AmIReal\AmIReal\obj\Debug\AmIReal.csproj.AssemblyReference.cache
+D:\yazılım çalışmaları\visual çalışamaları\karışık random çalışmalar\AmIReal\AmIReal\obj\Debug\AmIReal.csproj.SuggestedBindingRedirects.cache
+D:\yazılım çalışmaları\visual çalışamaları\karışık random çalışmalar\AmIReal\AmIReal\obj\Debug\AmIReal.csproj.CoreCompileInputs.cache
+D:\yazılım çalışmaları\visual çalışamaları\karışık random çalışmalar\AmIReal\AmIReal\obj\Debug\AmIReal.exe
+D:\yazılım çalışmaları\visual çalışamaları\karışık random çalışmalar\AmIReal\AmIReal\obj\Debug\AmIReal.pdb
